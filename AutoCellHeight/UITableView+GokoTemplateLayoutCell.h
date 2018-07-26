@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  UITableView+GokoTemplateLayoutCell.h
 //  AutoCellHeight
 //
 //  Created by Goko on 04/08/2017.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : BaseViewController
-
+@interface UITableView (GokoTemplateLayoutCell)
 
 @end
-

@@ -1,0 +1,29 @@
+PODS:
+  - FDStackView (1.0)
+  - FHHFPSIndicator (1.0.0)
+  - Masonry (1.0.2)
+  - SDWebImage (4.0.0):
+    - SDWebImage/Core (= 4.0.0)
+  - SDWebImage/Core (4.0.0)
+  - UITableView+FDTemplateLayoutCell (1.6)
+  - YYModel (1.0.4)
+
+DEPENDENCIES:
+  - FDStackView
+  - FHHFPSIndicator
+  - Masonry
+  - SDWebImage
+  - UITableView+FDTemplateLayoutCell
+  - YYModel
+
+SPEC CHECKSUMS:
+  FDStackView: 3a4bbe0ce9c35e974246a585168b9da8c32213f1
+  FHHFPSIndicator: b4d34c3a93b702ad18358a4eb49839f83f4f30fb
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  SDWebImage: 76a6348bdc74eb5a55dd08a091ef298e56b55e41
+  UITableView+FDTemplateLayoutCell: 5c949b4a5059c404b442926c0e80f81d10a2d66f
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
+
+PODFILE CHECKSUM: 257fb263c8ab7a8c4be348db04c076ae64f240f8
+
+COCOAPODS: 1.2.1

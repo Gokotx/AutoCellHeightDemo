@@ -1,15 +1,14 @@
 //
-//  ViewController.h
+//  TextCell.h
 //  AutoCellHeight
 //
 //  Created by Goko on 04/08/2017.
 //  Copyright © 2017 Goko. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import "BaseTableViewCell.h"
 
-@interface ViewController : BaseViewController
+@interface TextCell : BaseTableViewCell
 
 
 @end
-
